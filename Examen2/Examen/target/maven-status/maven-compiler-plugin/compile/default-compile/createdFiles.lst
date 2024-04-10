@@ -1,0 +1,12 @@
+Entidades\Compra.class
+Backend\BackendClientHandler.class
+Backend\Cliente.class
+Backend\ProxyInterface.class
+Presentation\Vista.class
+Backend\BackendServer.class
+Backend\MainBackend.class
+Presentation\Controlador.class
+Backend\Proxy.class
+com\mycompany\examen\Examen.class
+Presentation\Modelo.class
+Backend\Data.class
